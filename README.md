@@ -1,4 +1,4 @@
-# **MO2 Simple Installer (mo2-install)** 🛠️
+# **MO2 Installer (mo2-install)** 🛠️
 
 A **lightweight installer** that extracts mod archives, interprets **FOMOD XML/JSON** configurations, and installs files into a target mod directory. Designed to simplify mod installation for **Mod Organizer 2 (MO2)** users.
 
@@ -54,4 +54,5 @@ In **Mod Organizer 2**, open the **"Install Mods"** tool:
 
 * **`ModuleConfig.xml` (FOMOD)**: Contains plugin/group configurations and file mappings.
 * **`<archive_stem>.json` (optional)**: Config file next to the archive, used to define `moduleName` and `installFiles` for the installer logic.
+
 
